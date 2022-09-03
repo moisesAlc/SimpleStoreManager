@@ -1,0 +1,11 @@
+VENDA: ---------------------------------
+Id Cliente: -
+Id Funcionario: -
+Id Caixa: -
+   Nome Produto: banana
+   Categoria: fruta
+   Preço Compra: 5.65
+   Lucro Venda: 1.7000000000000002
+Data/Hora da Venda: 03/09/2022
+------------------------------------------
+
